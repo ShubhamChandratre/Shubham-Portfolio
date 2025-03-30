@@ -36,11 +36,11 @@ function Projects() {
             <ProjectCard
               imgPath={emailapp}
               isBlog={false}
-              title="Email Schedular"
-              description="The Email Scheduler App enables users to send emails to multiple recipients with a specified delay between each email. It is built with React.js (frontend) and Node.js with Express.js (backend), using Brevo SMTP for email delivery. The app processes user input, schedules emails, and ensures secure communication with error handling and logging. "
-              ghLink="https://github.com/ShubhamChandratre/Mailer-React.git"
+              title="ChronoMail"
+              description="ChronoMail Web App enables users to send emails to multiple recipients with a specified delay between each email. It is built with React.js (frontend) and Node.js with Express.js (backend), using Brevo SMTP for email delivery. The app processes user input, schedules emails, and ensures secure communication with error handling and logging. "
+              ghLink="https://github.com/ShubhamChandratre/ChronoMail.git"
               // demoLink=""
-            />
+            />  
           </Col>
 
           <Col md={4} className="project-card">
