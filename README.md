@@ -37,7 +37,7 @@ git clone https://github.com/ShubhamChandratre/Shubham-Portfolio.git
 Navigate to the project folder and install the required dependencies using **npm**:
 
 ```bash
-cd portfolio
+cd Shubham-Portfolio
 npm install
 ```
 
